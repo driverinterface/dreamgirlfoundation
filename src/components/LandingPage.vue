@@ -33,18 +33,8 @@
                   -Confucius
                 </p>
                 <p>
-                  “Where there is charity and wisdom,
-                  There is neither fear nor ignorance.”<br>
-                  -St. Francis of Assisi
-                </p>
-                <p>
                   “Every good act is charity. A man's true wealth hereafter is the good that he does in this world to his fellows.”<br>
                   -Moliere
-                </p>
-                <p>
-                  “If you haven't any charity in your heart,
-                  You have the worst kind of heart trouble.”<br>
-                  -Bob Hope
                 </p>
             </v-card-title>
         </v-card>
