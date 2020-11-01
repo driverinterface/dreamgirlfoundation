@@ -32,10 +32,6 @@
                   Has already secured his own.”<br>
                   -Confucius
                 </p>
-                <p>
-                  “Every good act is charity. A man's true wealth hereafter is the good that he does in this world to his fellows.”<br>
-                  -Moliere
-                </p>
             </v-card-title>
         </v-card>
     </v-dialog>
